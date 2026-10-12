@@ -56,8 +56,30 @@
 
 
         /*Specify a rule for the Selector */
-
-        #interests {
-            background-color:aqua;
+        #about {
+            
         }
 
+        #interests {
+            background-color:powderblue;
+        }
+
+        #foods {
+            background-color:plum;        
+        }
+
+        #books {
+            background-color:powderblue;
+        }
+
+        #hobbies {
+            background-color:plum;
+        }
+
+        #places {
+            background-color:powderblue;
+        }
+
+        #facts{
+            background-color:plum;
+        }
