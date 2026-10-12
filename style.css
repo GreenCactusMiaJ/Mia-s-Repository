@@ -1,0 +1,63 @@
+/* This is how you comment in CSS*/
+
+/*Style for About Me doc*/
+
+
+h1 {
+            color:rgb(6, 126, 6);
+            font-family:'Times New Roman', Times, serif;
+        }
+
+        h2 {
+            color: rgb(112, 28, 190);
+            font-family:'Times New Roman', Times, serif;
+        
+        }
+
+        body {
+            background-color:aliceblue;
+        }
+
+        p {
+            font-family:monospace;
+            color:rgb(11, 77, 139);
+        }
+        
+        li {
+            font-family:monospace;
+            color:rgb(11, 82, 148);
+        }
+
+        main {
+            max-width: 900px;
+            margin:10px;
+        }
+
+        /* Specify a rule of a class*/
+        .tagline {
+            font-style:italic;
+        }
+
+        .contact {
+            background-color:aqua;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            border-color:black;
+            max-width: 250px;
+        }
+
+        .PicofMia {
+            width: 200px;
+            border-radius: 50%;
+            margin: 20px;
+            border:2px solid black;
+        }
+
+
+        /*Specify a rule for the Selector */
+
+        #interests {
+    /*background-color:aqua;*/ /*don't need this right now, this one is an example*/
+        }
+
