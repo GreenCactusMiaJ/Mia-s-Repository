@@ -3,7 +3,7 @@
 /*Style for About Me doc*/
 
 
-            h1 {
+        h1 {
             color:rgb(6, 126, 6);
             font-family:'Times New Roman', Times, serif;
         }
@@ -60,34 +60,41 @@
         #about {
             background-color:plum;
             border-radius: 50%;
+            margin: 20px;
         }
 
         #interests {
             background-color:powderblue;
             border-radius: 50%;
+            margin: 20px;
         }
 
         #foods {
             background-color:plum;   
             border-radius: 50%;
+            margin: 20px;
         }
 
         #books {
             background-color:powderblue;
             border-radius: 50%;
+            margin: 20px;
         }
 
         #hobbies {
             background-color:plum;
             border-radius: 50%;
+            margin: 20px;
         }
 
         #places {
             background-color:powderblue;
             border-radius: 50%;
+            margin: 20px;
         }
 
         #facts{
             background-color:plum;
             border-radius: 50%;
+            margin: 20px;
         }
