@@ -52,34 +52,42 @@
             border:2px solid black;
             border-radius: 50%;
             margin: 20px;
+            overflow: hidden;
         }
 
 
         /*Specify a rule for the Selector */
         #about {
             background-color:plum;
+            border-radius: 10%;
         }
 
         #interests {
             background-color:powderblue;
+            border-radius: 10%;
         }
 
         #foods {
-            background-color:plum;        
+            background-color:plum;   
+            border-radius: 10%;
         }
 
         #books {
             background-color:powderblue;
+            border-radius: 10%;
         }
 
         #hobbies {
             background-color:plum;
+            border-radius: 10%;
         }
 
         #places {
             background-color:powderblue;
+            border-radius: 10%;
         }
 
         #facts{
             background-color:plum;
+            border-radius: 10%;
         }
