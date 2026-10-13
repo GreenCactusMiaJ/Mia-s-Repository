@@ -59,35 +59,35 @@
         /*Specify a rule for the Selector */
         #about {
             background-color:plum;
-            border-radius: 10%;
+            border-radius: 50%;
         }
 
         #interests {
             background-color:powderblue;
-            border-radius: 10%;
+            border-radius: 50%;
         }
 
         #foods {
             background-color:plum;   
-            border-radius: 10%;
+            border-radius: 50%;
         }
 
         #books {
             background-color:powderblue;
-            border-radius: 10%;
+            border-radius: 50%;
         }
 
         #hobbies {
             background-color:plum;
-            border-radius: 10%;
+            border-radius: 50%;
         }
 
         #places {
             background-color:powderblue;
-            border-radius: 10%;
+            border-radius: 50%;
         }
 
         #facts{
             background-color:plum;
-            border-radius: 10%;
+            border-radius: 50%;
         }
