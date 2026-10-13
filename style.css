@@ -33,6 +33,11 @@
             margin:10px;
         }
 
+        nav {
+            display: flex;
+            gap: 20px;
+        }
+
         /* Specify a rule of a class*/
         .tagline {
             font-style:italic;
@@ -59,42 +64,56 @@
         /*Specify a rule for the Selector */
         #about {
             background-color:plum;
-            border-radius: 50%;
+            border-radius: 15px;
             margin: 20px;
+            display: inline-block;
+            padding: 10px, 20px;
         }
 
         #interests {
             background-color:powderblue;
-            border-radius: 50%;
+            border-radius: 15px;
             margin: 20px;
+            display: inline-block;
+            padding: 10px, 20px;
         }
 
         #foods {
             background-color:plum;   
-            border-radius: 50%;
+            border-radius: 15px;
             margin: 20px;
+            display: inline-block;
+            padding: 10px, 20px;
         }
 
         #books {
             background-color:powderblue;
-            border-radius: 50%;
+            border-radius: 15px;
             margin: 20px;
+            display: inline-block;
+            padding: 10px, 20px;
         }
 
         #hobbies {
             background-color:plum;
-            border-radius: 50%;
+            border-radius: 15px;
             margin: 20px;
+            display: inline-block;
+            padding: 10px, 20px;
         }
 
         #places {
             background-color:powderblue;
-            border-radius: 50%;
+            border-radius: 15px;
             margin: 20px;
+            display: inline-block;
+            padding: 10px, 20px;
         }
 
         #facts{
             background-color:plum;
-            border-radius: 50%;
+            border-radius: 15px;
             margin: 20px;
+            display: inline-block;
+            padding: 10px, 20px;
         }
