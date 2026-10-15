@@ -59,6 +59,9 @@
             border-radius: 50%;
             margin: 20px;
             overflow: hidden;
+            display: flex;
+            align-items: center;
+            gap: 2rem;
         }
 
 
