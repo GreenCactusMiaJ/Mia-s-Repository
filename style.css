@@ -36,8 +36,6 @@
         nav {
             display: flex;
             justify-content: flex-start;
-            max-width: 600px;
-            margin: 0 auto;
             gap: 40px;
         }
 
